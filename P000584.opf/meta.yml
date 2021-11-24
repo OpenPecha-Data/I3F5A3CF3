@@ -1,5 +1,7 @@
 id: P000584
 initial_creation_type: ocr
+created_at: 27/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W2PD17480
   title: འདུས་པ་མདོ་སོགས་ཀྱི་ཙཀླི།
@@ -71,10 +73,3 @@ source_metadata:
       volume_number: 11
       total_pages: 856
       base_file: v011.txt
-ebook_metadata:
-  title: འདུས་པ་མདོ་སོགས་ཀྱི་ཙཀླི།
-  author: ''
-  sku: P000584
-  cover: cover.jpg
-  layers:
-  - pagination
