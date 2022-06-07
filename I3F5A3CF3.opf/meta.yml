@@ -1,77 +1,87 @@
-id: P000584
+id: I3F5A3CF3
+source: https://library.bdrc.io
+source_file: null
 initial_creation_type: ocr
-created_at: 27/03/2020
-last_modified_at: 2021-12-16 15:48:26.992854
+imported: '2020-03-27T16:36:17+00:00'
+last_modified: '2022-06-07T12:23:11.058548+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
 source_metadata:
   id: bdr:W2PD17480
   title: འདུས་པ་མདོ་སོགས་ཀྱི་ཙཀླི།
   author: ''
-  volumes:
-    05708e29cd5545d9964ebf5d583f2b93:
-      image_group_id: I4PD646
-      title: Volume 1 of 'dus pa mdo sogs kyi tsak+li/
-      volume_number: 1
-      total_pages: 730
-      base_file: v001.txt
-    3cd99268a28e49199e23f3afbf9ad0e1:
-      image_group_id: I4PD647
-      title: Volume 2 of 'dus pa mdo sogs kyi tsak+li/
-      volume_number: 2
-      total_pages: 594
-      base_file: v002.txt
-    31efe2f9f1b64f7f8948b3bae00ce08c:
-      image_group_id: I4PD648
-      title: Volume 3 of 'dus pa mdo sogs kyi tsak+li/
-      volume_number: 3
-      total_pages: 584
-      base_file: v003.txt
-    41359f5787ca486fa4b48c4d13da6ec3:
-      image_group_id: I4PD649
-      title: Volume 4 of 'dus pa mdo sogs kyi tsak+li/
-      volume_number: 4
-      total_pages: 702
-      base_file: v004.txt
-    85d274e806944ae0a6d6e81b1c355333:
-      image_group_id: I4PD650
-      title: Volume 5 of 'dus pa mdo sogs kyi tsak+li/
-      volume_number: 5
-      total_pages: 552
-      base_file: v005.txt
-    85315b1e99a64ab6a9344ec7a63045d7:
-      image_group_id: I4PD651
-      title: Volume 6 of 'dus pa mdo sogs kyi tsak+li/
-      volume_number: 6
-      total_pages: 694
-      base_file: v006.txt
-    f6535f4b49db473793086fe1da9b0709:
-      image_group_id: I4PD652
-      title: Volume 7 of 'dus pa mdo sogs kyi tsak+li/
-      volume_number: 7
-      total_pages: 184
-      base_file: v007.txt
-    5a404c41d08a4951bb0af60f37d52507:
-      image_group_id: I4PD653
-      title: Volume 8 of 'dus pa mdo sogs kyi tsak+li/
-      volume_number: 8
-      total_pages: 358
-      base_file: v008.txt
-    b6bfe06144c548c5ab351f75d58d42d8:
-      image_group_id: I4PD654
-      title: Volume 9 of 'dus pa mdo sogs kyi tsak+li/
-      volume_number: 9
-      total_pages: 524
-      base_file: v009.txt
-    190d296b4d0d4ae6a88e3ad65156848b:
-      image_group_id: I4PD655
-      title: Volume 10 of 'dus pa mdo sogs kyi tsak+li/
-      volume_number: 10
-      total_pages: 570
-      base_file: v010.txt
-    df521a3d348e4e2b8fba1016f4cd492a:
-      image_group_id: I4PD656
-      title: Volume 11 of 'dus pa mdo sogs kyi tsak+li/
-      volume_number: 11
-      total_pages: 856
-      base_file: v011.txt
   access: http://purl.bdrc.io/admindata/AccessOpen
   restrictedInChina: false
+  base:
+    63C4:
+      image_group_id: I4PD646
+      title: Volume 1 of 'dus pa mdo sogs kyi tsak+li/
+      total_pages: 730
+      order: 1
+      base_file: 63C4.txt
+    BDDD:
+      image_group_id: I4PD647
+      title: Volume 2 of 'dus pa mdo sogs kyi tsak+li/
+      total_pages: 594
+      order: 2
+      base_file: BDDD.txt
+    6ADB:
+      image_group_id: I4PD648
+      title: Volume 3 of 'dus pa mdo sogs kyi tsak+li/
+      total_pages: 584
+      order: 3
+      base_file: 6ADB.txt
+    B7BB:
+      image_group_id: I4PD649
+      title: Volume 4 of 'dus pa mdo sogs kyi tsak+li/
+      total_pages: 702
+      order: 4
+      base_file: B7BB.txt
+    5DE6:
+      image_group_id: I4PD650
+      title: Volume 5 of 'dus pa mdo sogs kyi tsak+li/
+      total_pages: 552
+      order: 5
+      base_file: 5DE6.txt
+    FCB6:
+      image_group_id: I4PD651
+      title: Volume 6 of 'dus pa mdo sogs kyi tsak+li/
+      total_pages: 694
+      order: 6
+      base_file: FCB6.txt
+    5C4E:
+      image_group_id: I4PD652
+      title: Volume 7 of 'dus pa mdo sogs kyi tsak+li/
+      total_pages: 184
+      order: 7
+      base_file: 5C4E.txt
+    AD3B:
+      image_group_id: I4PD653
+      title: Volume 8 of 'dus pa mdo sogs kyi tsak+li/
+      total_pages: 358
+      order: 8
+      base_file: AD3B.txt
+    AA25:
+      image_group_id: I4PD654
+      title: Volume 9 of 'dus pa mdo sogs kyi tsak+li/
+      total_pages: 524
+      order: 9
+      base_file: AA25.txt
+    A8DD:
+      image_group_id: I4PD655
+      title: Volume 10 of 'dus pa mdo sogs kyi tsak+li/
+      total_pages: 570
+      order: 10
+      base_file: A8DD.txt
+    52F6:
+      image_group_id: I4PD656
+      title: Volume 11 of 'dus pa mdo sogs kyi tsak+li/
+      total_pages: 856
+      order: 11
+      base_file: 52F6.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
